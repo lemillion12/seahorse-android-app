@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Amul Calculate</string>
+    <string name="amul_taaza">Taaza</string>
+    <string name="amul_gold">Gold</string>
+    <string name="one_litre">1L</string>
+    <string name="half_litre">500 mL</string>
+    <string name="zero">0</string>
+    <string name="noOfItems">Number of items</string>
+    <string name="title_activity_overview">Overview</string>
+</resources>
